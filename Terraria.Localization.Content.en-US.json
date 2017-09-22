@@ -298,7 +298,7 @@
 		"LightingUpdateEveryFrameOff": "Rapid Lighting Off"
 	},
 	"Controls": {
-		"RightClick": "Right Click"
+		"RightClick": "Pravý klik"
 	},
 	"Social": {
 		"StatusInGame": "Playing online.",
@@ -359,10 +359,10 @@
 	"DeathTextGeneric": {
 		"Slain": "zabil hráče {0}",
 		"Eviscerated": "{0} was eviscerated",
-		"Murdered": "{0} was murdered",
+		"Murdered": "zavraždil {0}",
 		"FaceTornOff": "{0}'s face was torn off",
 		"EntrailsRippedOut": "{0}'s entrails were ripped out",
-		"Destroyed": "{0} was destroyed",
+		"Destroyed": "zničil {0}",
 		"SkullCrushed": "{0}'s skull was crushed",
 		"Massacred": "{0} got massacred",
 		"Impaled": "{0} got impaled",
